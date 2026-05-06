@@ -88,7 +88,8 @@ Party & alliance mapping
 Vote counts (EVM & Postal)
 
 📸 Dashboard Preview
-Show that dashboard looks like - ([Alt text])
+Show that dashboard looks like - ([Alt text] https://github.com/abhisheknirmal02-lab/India-General-Election-2024-Analysis-Dashboard/blob/main/INDIA%20GENERAL%20ELECTION%20-%202024.pbit)
+Overview Analysis - 
 
 🚀 How to Use
 Open the .pbix file in Power BI Desktop
