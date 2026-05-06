@@ -103,8 +103,6 @@ Hover over visuals for detailed insights
 📌 Project Highlights
 
 End-to-end data analysis project
-
-
 Multi-level drill-down (National → State → Constituency)
 Drill through for Detailed Grid
 Multiple Bookmarks (Blue Eye, i , Home, image )
@@ -120,6 +118,7 @@ Visualized complex electoral data using maps, charts, and tables to uncover acti
 
 
 👤 Author
+
 Abhishek Nirmal
 Aspiring Data Analyst | Power BI | SQL | Excel
 
