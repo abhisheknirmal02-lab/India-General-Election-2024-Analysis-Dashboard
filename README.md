@@ -129,7 +129,3 @@ Abhishek Nirmal
 Aspiring Data Analyst | Power BI | SQL | Excel
 
 
-
-
-Help you create 2 more portfolio projects like this (to get job-ready)
-
