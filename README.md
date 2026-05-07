@@ -10,10 +10,13 @@ However, extracting meaningful insights for decision-making, political analysis,
 
 🎯 Objective
 
-To build an interactive dashboard for analyzing election results at multiple levels
-To identify trends in alliance performance (NDA, I.N.D.I.A., Others)
-To enable drill-down analysis from national to constituency level
-To provide data-driven insights into voting patterns and political landscape
+To build an interactive dashboard for analyzing election results at multiple level.
+
+To identify trends in alliance performance (NDA, I.N.D.I.A., Others).
+
+To enable drill-down analysis from national to constituency level.
+
+To provide data-driven insights into voting patterns and political landscape.
 
 📊 Dashboard Features / Pages
 
