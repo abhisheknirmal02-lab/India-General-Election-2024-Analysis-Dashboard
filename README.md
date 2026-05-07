@@ -90,7 +90,7 @@ Vote counts (EVM & Postal)
 📸 Dashboard Preview
 Show that dashboard looks like - ([Alt text] https://github.com/abhisheknirmal02-lab/India-General-Election-2024-Analysis-Dashboard/blob/main/INDIA%20GENERAL%20ELECTION%20-%202024.pbit)
 
-DAX Code - 
+DAX Code - https://github.com/abhisheknirmal02-lab/India-General-Election-2024-Analysis-Dashboard/blob/main/India%20General%20election%202024%20Code.xlsx
 
 Overview Analysis - https://github.com/abhisheknirmal02-lab/India-General-Election-2024-Analysis-Dashboard/blob/main/Lok%20Sabha%20election%202024.png
 
