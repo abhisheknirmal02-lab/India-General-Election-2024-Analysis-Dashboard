@@ -128,7 +128,7 @@ Show that dashboard looks like - ([Alt text] https://github.com/abhisheknirmal02
 
 DAX Code - https://github.com/abhisheknirmal02-lab/India-General-Election-2024-Analysis-Dashboard/blob/main/India%20General%20election%202024%20Code.xlsx
 
-SQL Cross Verification of Power BI Results - https://github.com/abhisheknirmal02-lab/India-General-Election-2024-Analysis-Dashboard/blob/main/Indian%20General%20election%20result%20Power%20Bi%20results%20cross%20verification.docx
+SQL queries Validation- https://github.com/abhisheknirmal02-lab/India-General-Election-2024-Analysis-Dashboard/blob/main/Indian%20General%20election%20result%20Power%20Bi%20results%20cross%20verification.docx
 
 Overview Analysis - ([Dashboard Preview] https://github.com/abhisheknirmal02-lab/India-General-Election-2024-Analysis-Dashboard/blob/main/Lok%20Sabha%20election%202024.png)
 
