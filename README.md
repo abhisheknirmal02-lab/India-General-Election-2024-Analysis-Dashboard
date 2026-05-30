@@ -132,6 +132,23 @@ SQL queries Validation- https://github.com/abhisheknirmal02-lab/India-General-El
 
 Overview Analysis - ([Dashboard Preview] https://github.com/abhisheknirmal02-lab/India-General-Election-2024-Analysis-Dashboard/blob/main/Lok%20Sabha%20election%202024.png)
 
+## 🖥️ Dashboard Preview
+
+### 🏠 Landing Page
+![Landing Page](https://raw.githubusercontent.com/abhisheknirmal02-lab/India-General-Election-2024-Analysis-Dashboard/main/Landing%20page.png)
+
+### 📊 Overview Analysis
+![Overview Analysis](https://raw.githubusercontent.com/abhisheknirmal02-lab/India-General-Election-2024-Analysis-Dashboard/main/Lok%20Sabha%20election%202024.png)
+
+### 🗺️ Political Landscape by State
+![Political Landscape by State](https://raw.githubusercontent.com/abhisheknirmal02-lab/India-General-Election-2024-Analysis-Dashboard/main/Political%20Landscape%20by%20State.png)
+### 🔍 Constituency Analysis
+![Constituency Analysis](https://raw.githubusercontent.com/abhisheknirmal02-lab/India-General-Election-2024-Analysis-Dashboard/main/Constituency%20Analysis.png)
+
+### 📋 Details Grid
+![Details Grid](https://raw.githubusercontent.com/abhisheknirmal02-lab/India-General-Election-2024-Analysis-Dashboard/main/Details%20Grid.png)
+
+
 
 
 🚀 How to Use
@@ -174,5 +191,3 @@ Visualized complex electoral data using maps, charts, and tables to uncover acti
 Abhishek Nirmal
 
 Aspiring Data Analyst | Power BI | SQL | Excel
-
-
