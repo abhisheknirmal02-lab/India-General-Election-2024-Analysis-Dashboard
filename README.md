@@ -122,32 +122,31 @@ Party & alliance mapping
 Vote counts (EVM & Postal)
 
 
-📸 Dashboard Preview
+📸 Files
 
-Show that dashboard looks like - ([Alt text] https://github.com/abhisheknirmal02-lab/India-General-Election-2024-Analysis-Dashboard/blob/main/INDIA%20GENERAL%20ELECTION%20-%202024.pbit)
+![Show that dashboard looks like](https://github.com/abhisheknirmal02-lab/India-General-Election-2024-Analysis-Dashboard/blob/main/INDIA%20GENERAL%20ELECTION%20-%202024.pbit)
 
-DAX Code - https://github.com/abhisheknirmal02-lab/India-General-Election-2024-Analysis-Dashboard/blob/main/India%20General%20election%202024%20Code.xlsx
+![DAX Code](https://github.com/abhisheknirmal02-lab/India-General-Election-2024-Analysis-Dashboard/blob/main/India%20General%20election%202024%20Code.xlsx)
 
-SQL queries Validation- https://github.com/abhisheknirmal02-lab/India-General-Election-2024-Analysis-Dashboard/blob/main/Indian%20General%20election%20result%20Power%20Bi%20results%20cross%20verification.docx
+![SQL queries Validation](https://github.com/abhisheknirmal02-lab/India-General-Election-2024-Analysis-Dashboard/blob/main/Indian%20General%20election%20result%20Power%20Bi%20results%20cross%20verification.docx)
 
-Overview Analysis - ([Dashboard Preview] https://github.com/abhisheknirmal02-lab/India-General-Election-2024-Analysis-Dashboard/blob/main/Lok%20Sabha%20election%202024.png)
 
 ## 🖥️ Dashboard Preview
-
-### 🏠 Landing Page
-![Landing Page](https://raw.githubusercontent.com/abhisheknirmal02-lab/India-General-Election-2024-Analysis-Dashboard/main/Landing%20page.png)
 
 ### 📊 Overview Analysis
 ![Overview Analysis](https://raw.githubusercontent.com/abhisheknirmal02-lab/India-General-Election-2024-Analysis-Dashboard/main/Lok%20Sabha%20election%202024.png)
 
 ### 🗺️ Political Landscape by State
 ![Political Landscape by State](https://raw.githubusercontent.com/abhisheknirmal02-lab/India-General-Election-2024-Analysis-Dashboard/main/Political%20Landscape%20by%20State.png)
+
 ### 🔍 Constituency Analysis
 ![Constituency Analysis](https://raw.githubusercontent.com/abhisheknirmal02-lab/India-General-Election-2024-Analysis-Dashboard/main/Constituency%20Analysis.png)
 
 ### 📋 Details Grid
 ![Details Grid](https://raw.githubusercontent.com/abhisheknirmal02-lab/India-General-Election-2024-Analysis-Dashboard/main/Details%20Grid.png)
 
+### 🏠 Landing Page
+![Landing Page](https://raw.githubusercontent.com/abhisheknirmal02-lab/India-General-Election-2024-Analysis-Dashboard/main/Landing%20page.png)
 
 
 
